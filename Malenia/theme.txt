@@ -21,9 +21,9 @@ terminal-border: "0"
     icon_height = 0
     item_icon_space = 320
     item_spacing = 5
-    item_font =  "Mantinia Regular 54"
+    item_font =  "Mantinia Regular 52"
     item_color = "#000000"
-    selected_item_font = "Mantinia Regular 54"
+    selected_item_font = "Mantinia Regular 52"
     selected_item_color = "#e78849"
     selected_item_pixmap_style = "select_*.png"
 }
@@ -39,4 +39,3 @@ terminal-border: "0"
     align = "center"
     text = "The scarlet bloom flowers once more: %ds"
 }
-
